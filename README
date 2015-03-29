@@ -22,7 +22,6 @@ coverage.py script uses PyMox and the excellent code coverage script
 found here: http://code.google.com/p/pymox/
 http://nedbatchelder.com/code/modules/coverage.html
 
-
 ## []()Windows Launcher for Google App Engine
 
 This project contains the source code for the GUI Launcher, first included with the Google App Engine SDK 1.2.5 for Python on Windows. The Launcher is an application for creating, running, uploading, and otherwise managing Google App Engine applications.
